@@ -18,3 +18,9 @@ Dependencies: Node.js, NPM, & Python.
   # Configuration
 
   Edit the following lines ```11-25``` in the script
+
+---
+
+# features to add
+
+- Icon Adding Support
