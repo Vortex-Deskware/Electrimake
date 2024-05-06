@@ -35,4 +35,5 @@ Dependencies: Node.js, NPM, & Python.
        "electron": "^16.0.0"
      }}
    }}
-      ```
+
+   ```
