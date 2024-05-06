@@ -13,4 +13,26 @@ Dependencies: Node.js, NPM, & Python.
   then go into the ```dist``` folder
 
   finally, open ```electron-url-app Setup 1.0.0.exe```
-  (can be changed with editing the script)
+
+  ---
+  # Configuration
+
+  Edit
+
+  ```
+  {{
+  "name": "electron-url-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {{
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  }},
+  "description": "Your app description goes here",
+  "author": "Your Name",
+  "devDependencies": {{
+    "electron": "^16.0.0"
+  }}
+}}
+```
