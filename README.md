@@ -17,23 +17,4 @@ Dependencies: Node.js, NPM, & Python.
   ---
   # Configuration
 
-  Edit
-
-     ```
-  {{
-     "name": "electron-url-app",
-     "version": "1.0.0",
-     "main": "main.js",
-     "scripts": {{
-       "start": "electron .",
-       "pack": "electron-builder --dir",
-       "dist": "electron-builder"
-     }},
-     "description": "Your app description goes here",
-     "author": "Your Name",
-     "devDependencies": {{
-       "electron": "^16.0.0"
-     }}
-   }}
-
-   ```
+  Edit the following lines ```11-25```
