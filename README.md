@@ -17,4 +17,4 @@ Dependencies: Node.js, NPM, & Python.
   ---
   # Configuration
 
-  Edit the following lines ```11-25```
+  Edit the following lines ```11-25``` in the script
