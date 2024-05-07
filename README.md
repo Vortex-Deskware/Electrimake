@@ -12,12 +12,12 @@ Dependencies: Node.js, NPM, & Python.
 
   then go into the ```dist``` folder
 
-  finally, open ```electron-url-app Setup 1.0.0.exe```
+  finally, open ```electron-url-app Setup 1.0.0.exe``` or whatever you named your app as
 
   ---
   # Configuration
 
-  Edit the following lines ```11-25``` in the script
+  Edit the following lines ```11-25``` in the script to configure app name, etc.
 
 ---
 
