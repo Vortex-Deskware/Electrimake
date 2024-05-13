@@ -23,4 +23,4 @@ Dependencies: Node.js, NPM, & Python.
 
 # features to add
 
-- Icon Adding Support
+- Icon Adding Support (Working On Implementing)
