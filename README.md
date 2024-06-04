@@ -23,4 +23,8 @@ Dependencies: Node.js, NPM, & Python.
 
 # features to add
 
-- Icon Adding Support (Working On Implementing)
+- ~Icon Adding Support~ - Added with GUI program
+
+# Credits
+
+Liberty Software for the GUI Based App: https://github.com/libhq/libtron
