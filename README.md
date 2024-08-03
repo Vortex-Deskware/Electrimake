@@ -2,6 +2,7 @@
 
 ---
 Electrimake allows you to easily build native desktop apps with 1 script!
+
 it is the primary Electron Builder uses in Vortex Deskware applications.
 
 # Usage
