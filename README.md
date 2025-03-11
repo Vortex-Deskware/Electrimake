@@ -1,4 +1,5 @@
 # Electrimake | By Vortex Deskware
+# (deprecated, use Pymake - https://github.com/Vortex-Deskware/Pymake)
 
 ---
 Electrimake allows you to easily build native desktop apps with 1 script!
