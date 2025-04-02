@@ -1,5 +1,6 @@
 # Electrimake | By Vortex Deskware
-# (deprecated, use Pymake - https://github.com/Vortex-Deskware/Pymake)
+
+- (this softward is now deprecated, use Pymake - https://github.com/Vortex-Deskware/Pymake)
 
 ---
 Electrimake allows you to easily build native desktop apps with 1 script!
@@ -21,13 +22,3 @@ Dependencies: Node.js, NPM, & Python.
   # Configuration
 
   Edit the following lines ```11-25``` in the script to configure app name, etc.
-
----
-
-# features to add
-
-- ~Icon Adding Support~ - Added with GUI program
-
-# Credits
-
-Liberty Software for the GUI Based App: https://github.com/libhq/libtron
